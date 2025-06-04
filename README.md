@@ -1,5 +1,9 @@
 ## Hola!! Soy Marcos 👋
 
+## 🖥Sobre mí
+- 👨‍💻Estudiante de la Tecnicatura de Desarrollo de Software
+- 👾Intereses Desarrollo web y Bases de datos
+
 ## 🚀 Proyectos
 
 ### 🛠️ 1. **Proyectos Básicos**
