@@ -1,7 +1,11 @@
 ## Hola!! Soy Marcos 👋
 
-🚀 ##Proyectos
+## 🚀 Proyectos
 
-🛠️ 1. Proyectos Básicos
-Calculadora
-Base de datos sencilla 
+### 🛠️ 1. **Proyectos Básicos**
+
+#### 🔹 <u>Calculadora</u>
+Una calculadora simple hecha en Python.
+
+#### 🔹 <u>Base de datos sencilla</u>
+
