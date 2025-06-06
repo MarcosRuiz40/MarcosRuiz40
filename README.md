@@ -20,4 +20,4 @@ Sistema básico que permite al usuario iniciar sesión
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)     
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)    
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
