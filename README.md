@@ -1,8 +1,8 @@
 ## Hola!! Soy Marcos 👋
 
 ## 🖥Sobre mí
-- 👨‍💻Estudiante de la Tecnicatura de Desarrollo de Software
-- 👾Intereses Backend  y Bases de datos
+- 🎓 Estudiante de la Tecnicatura en Desarrollo de Software
+- 💡 Interesado en Backend y Bases de Datos
 
 ## 🚀 Proyectos
 
@@ -12,7 +12,10 @@
 Una calculadora simple hecha en Python.
 
 #### 🔹 <u>Sistema de Login con Base de Datos</u>
-Sistema básico que permite al usuario iniciar sesión
+Pequeña app de inicio de sesión conectada a una base de datos SQL Server.
+
+#### 🔹 <u>Paginas web</u>
+Sitio web sencillo hecho con HTML, CSS y JavaScript
 
 ## 💻 Lenguajes que estoy aprendiendo
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)    
