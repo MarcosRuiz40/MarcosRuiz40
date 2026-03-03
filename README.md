@@ -31,9 +31,6 @@ Aplicación de consola desarrollada para practicar estructuras de control y lóg
 🔹 **Sistema de Login con Base de Datos**  
 Aplicación conectada a SQL Server implementando autenticación básica y conexión a base de datos.
 
-🔹 **Sitio Web HTML/CSS/JS**  
-Proyecto frontend sencillo enfocado en estructura y estilos.
-
 ---
 
 ## 🦀 Actualmente trabajando en
