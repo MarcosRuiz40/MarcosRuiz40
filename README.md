@@ -52,7 +52,7 @@ Aplicación conectada a SQL Server implementando autenticación básica y conexi
 
 ---
 
-## 📈 En crecimiento constante
+## 📈 En crecimiento
 
 Este perfil refleja mi evolución como desarrollador.  
-Cada proyecto nuevo busca mejorar estructura, claridad y calidad de código.
+Cada proyecto nuevo busca mejorar estructura y calidad de código.
