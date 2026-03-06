@@ -17,7 +17,7 @@ Actualmente estoy profundizando en **Rust**, enfocándome en:
 - Construcción de CLI tools
 - Diseño de código limpio y mantenible
 
-Mi objetivo es convertirme en desarrollador backend profesional, construyendo proyectos reales y mejorando constantemente mis fundamentos.
+Mi objetivo es convertirme en desarrollador backend, construyendo proyectos reales y mejorando constantemente mis fundamentos.
 
 ---
 
