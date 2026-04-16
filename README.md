@@ -1,6 +1,6 @@
 # 👋 Hola, soy Marcos Ruiz
 
-💻 Backend Developer en formación 
+💻 Backend Developer en formación     
 👾 Intereses backend y Cyberseguridad  
 🎓 Estudiante de la Tecnicatura en Desarrollo de Software   
 📍 Rosario, Argentina  
