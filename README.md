@@ -1,6 +1,7 @@
 # 👋 Hola, soy Marcos Ruiz
 
-💻 Backend Developer en formación  
+💻 Backend Developer en formación
+👾 Intereses backend y Cyberseguridad 
 🎓 Estudiante de la Tecnicatura en Desarrollo de Software  
 📍 Rosario, Argentina  
 
@@ -14,7 +15,7 @@ Actualmente estoy profundizando en **Rust**, enfocándome en:
 - Manejo de errores
 - Modelado con `struct` y `enum`
 - Buenas prácticas
-- Construcción de CLI tools
+- Construcción de Herramienta de conexión a puertos
 - Diseño de código limpio y mantenible
 
 Mi objetivo es convertirme en desarrollador backend, construyendo proyectos reales y mejorando constantemente mis fundamentos.
