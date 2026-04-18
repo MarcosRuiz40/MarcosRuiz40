@@ -1,6 +1,6 @@
 # 👋 Marcos Ruiz
 
-🎓 Estudiante de último año en Desarrollo de Software.
+🎓 Estudiante de último año en Desarrollo de Software.      
 💻 Desarrollo herramientas en Rust orientadas a redes y ciberseguridad.
 
 ## 🚀 En qué estoy trabajando
