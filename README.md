@@ -33,6 +33,10 @@ Escáner de puertos concurrente desarrollado desde cero en Rust, utilizando thre
 
 ⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
 
+## 💡 Qué resuelve
+
+Este proyecto busca entender cómo funcionan los escáneres de red a bajo nivel, implementando manualmente la lógica de conexión y concurrencia en Rust.
+
 ## 🎯 Próximos pasos
 
 - Implementar CLI configurable (IP, rango, timeout)
