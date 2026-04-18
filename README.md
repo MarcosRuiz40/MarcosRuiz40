@@ -23,7 +23,7 @@ Estoy desarrollando herramientas propias para entender mejor la concurrencia, el
 ## 📌 Proyecto destacado
 
 ### 🔍 Port Scanner en Rust
-Escáner de puertos concurrente desarrollado desde cero en Rust.
+Escáner de puertos concurrente desarrollado desde cero en Rust, utilizando threads y `TcpStream::connect_timeout` para realizar conexiones TCP con control de tiempo de espera.
 
 - Uso de threads para paralelismo
 - Implementación de timeout para evitar bloqueos
