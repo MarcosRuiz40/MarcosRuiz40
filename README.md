@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mí
 
-- Desarrollando un port scanner concurrente en Rust
-- Aprendiendo concurrencia y networking a bajo nivel
-- Enfocado en proyectos prácticos, no solo teoría
+- Desarrollo de un port scanner concurrente en Rust
+- Implementación de concurrencia con threads y manejo de timeouts
+- Enfoque en proyectos prácticos orientados a networking
 
 ## 🛠️ Stack
 
@@ -21,23 +21,12 @@
   → Escáner concurrente con threads y timeout  
   → [Ver proyecto](https://github.com/MarcosRuiz40/port-scanner-rust)
 
-## 🎯 Objetivo actual
+## 🎯 Próximo objetivo
 
-Mejorar en:
-- Concurrencia en Rust
-- Herramientas de red
-- Ciberseguridad práctica
-  
-## 🦀 Actualmente trabajando en
+- Implementar argumentos por consola (CLI)
+- Mejorar manejo de errores (Result)
+- Diseñar herramientas más completas de red
 
-- Desarrollo de Port Scanner en Rust 
-- Mejorando el manejo de Errores
-- Construcción de repositorios orientados a portfolio
+## 💡 Enfoque
 
-## 💻 Tecnologías
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Construyo proyectos para entender cómo funcionan las cosas a bajo nivel, especialmente en redes y sistemas.
