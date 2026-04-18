@@ -1,32 +1,42 @@
-# 👋 Hola, soy Marcos
+# 👋 Marcos Ruiz
 
-💻 Estudiante de programación enfocado en Rust, redes y ciberseguridad.
+💻 Desarrollo herramientas en Rust orientadas a redes y ciberseguridad.
 
-## 🚀 Sobre mí
+## 🚀 En qué estoy trabajando
 
-- Desarrollo de un port scanner concurrente en Rust
-- Implementación de concurrencia con threads y manejo de timeouts
-- Enfoque en proyectos prácticos orientados a networking
+- Implementación de herramientas de red en Rust
+- Concurrencia aplicada a escaneo de puertos
+- Manejo de conexiones TCP y timeouts a bajo nivel
 
-## 🛠️ Stack
+## 🧠 Enfoque técnico
+
+Me enfoco en entender cómo funcionan las cosas internamente, construyendo herramientas propias en lugar de depender de librerías externas.
+
+## 🛠️ Stack principal
 
 - Rust
+- Networking (TCP/IP)
 - Git / GitHub
-- Networking básico (TCP/IP)
-- Linux / Kali (básico)
+- Linux
 
-## 📌 Proyectos destacados
+## 📌 Proyecto destacado
 
-- 🔍 Port Scanner en Rust  
-  → Escáner concurrente con threads y timeout  
-  → [Ver proyecto](https://github.com/MarcosRuiz40/port-scanner-rust)
+### 🔍 Port Scanner en Rust
+Escáner de puertos concurrente utilizando threads y `TcpStream::connect_timeout`.
 
-## 🎯 Próximo objetivo
+- Concurrencia mediante múltiples hilos
+- Control de timeout para evitar bloqueos
+- División manual de carga de trabajo
 
-- Implementar argumentos por consola (CLI)
-- Mejorar manejo de errores (Result)
-- Diseñar herramientas más completas de red
+👉 https://github.com/MarcosRuiz40/port-scanner-rust
 
-## 💡 Enfoque
+## 🎯 Próximos pasos
 
-Construyo proyectos para entender cómo funcionan las cosas a bajo nivel, especialmente en redes y sistemas.
+- Implementar CLI configurable (IP, rango, timeout)
+- Diseñar thread pool para mejorar rendimiento
+- Mejorar manejo de errores con `Result`
+- Expandir hacia herramientas de seguridad ofensiva
+
+## 💡 Objetivo
+
+Desarrollar herramientas reales orientadas a redes y ciberseguridad, con foco en rendimiento y control a bajo nivel.
