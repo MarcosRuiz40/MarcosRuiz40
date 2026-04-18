@@ -8,9 +8,9 @@
 - Concurrencia aplicada a escaneo de puertos
 - Manejo de conexiones TCP y timeouts a bajo nivel
 
-## 🧠 Enfoque técnico
+## 🧠 Enfoque
 
-Me enfoco en entender cómo funcionan las cosas internamente, construyendo herramientas propias en lugar de depender de librerías externas.
+Estoy desarrollando herramientas propias para entender mejor la concurrencia, el networking y el comportamiento de sistemas a bajo nivel.
 
 ## 🛠️ Stack principal
 
