@@ -28,14 +28,12 @@ Mejorar en:
 - Herramientas de red
 - Ciberseguridad práctica
   
----
 ## 🦀 Actualmente trabajando en
 
 - Desarrollo de Port Scanner en Rust 
 - Mejorando el manejo de Errores
 - Construcción de repositorios orientados a portfolio
 
----
 ## 💻 Tecnologías
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
