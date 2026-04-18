@@ -4,11 +4,11 @@
 
 ## 🚀 Sobre mí
 
-- Actualmente aprendiendo Rust y sistemas de bajo nivel
-- Interesado en redes, seguridad y herramientas tipo CLI
-- Construyendo proyectos reales para mejorar habilidades prácticas
+- Desarrollando un port scanner concurrente en Rust
+- Aprendiendo concurrencia y networking a bajo nivel
+- Enfocado en proyectos prácticos, no solo teoría
 
-## 🛠️ Tecnologías
+## 🛠️ Stack
 
 - Rust
 - Git / GitHub
@@ -41,7 +41,3 @@ Mejorar en:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## 📫 Contacto
-
-- GitHub: https://github.com/MarcosRuiz40
