@@ -31,7 +31,7 @@ Escáner de puertos concurrente desarrollado desde cero en Rust.
 
 👉 https://github.com/MarcosRuiz40/port-scanner-rust
 
-### Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
+⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
 
 ## 🎯 Próximos pasos
 
