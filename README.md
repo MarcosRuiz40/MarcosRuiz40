@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marcos Ruiz 👋
 
-Estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo backend, el bajo nivel y la ciberseguridad. Me motivan los desafíos lógicos complejos, por eso elijo especializarme en lenguajes robustos como **Rust**.
+Estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo backend de bajo nivel y la ciberseguridad. Me motivan los desafíos lógicos complejos, por eso elijo especializarme en lenguajes robustos como **Rust**.
 
 ---
 
