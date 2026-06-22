@@ -1,49 +1,35 @@
-# 👋 Marcos Ruiz
+# ¡Hola! Soy Marcos Ruiz 👋
 
-🎓 Estudiante de último año en Desarrollo de Software.      
-💻 Desarrollo herramientas en Rust orientadas a redes y ciberseguridad.
+[cite_start]Estudiante de la Tecnicatura Superior en Desarrollo de Software[cite: 2]. [cite_start]Me apasiona el desarrollo backend, el bajo nivel y la ciberseguridad[cite: 2, 8]. [cite_start]Me motivan los desafíos lógicos complejos; por eso elijo especializarme en lenguajes robustos como **Rust** y el ecosistema de **.NET**[cite: 2, 8].
 
-## 🚀 En qué estoy trabajando
+---
 
-- Implementación de herramientas de red en Rust
-- Concurrencia aplicada a escaneo de puertos
-- Manejo de conexiones TCP y timeouts a bajo nivel
+### 🛠️ Tecnologías y Herramientas
 
-## 🧠 Enfoque
+- [cite_start]**Lenguajes:** Rust, .NET (C# / VB.NET), SQL, JavaScript, C [cite: 2, 10, 18, 23]
+- [cite_start]**Sistemas y Redes:** TCP/IP, Sockets, Multithreading, Concurrencia, Administración de Linux (Kali / Debian) [cite: 20, 23, 29, 30, 32]
+- [cite_start]**Bases de Datos y Herramientas:** Git, GitHub, SQL Server [cite: 18, 23, 32]
 
-Estoy desarrollando herramientas propias para entender mejor la concurrencia, el networking y el comportamiento de sistemas a bajo nivel.
+---
 
-## 🛠️ Stack principal
+### 📌 Proyectos Destacados
 
-- Rust
-- Networking (TCP/IP)
-- Git / GitHub
-- Linux
+#### [cite_start]🔍 [Multithreaded Port Scanner en Rust](https://github.com/MarcosRuiz40/port-scanner-rust) 
+[cite_start]Herramienta de red concurrente desarrollada desde cero utilizando la librería estándar (`std`) de Rust para profundizar en la gestión de memoria y sockets.
+- [cite_start]**Características:** División de rangos de puertos por hilos, comunicación segura mediante canales MPSC y manejo robusto de errores[cite: 20, 21].
+- [cite_start]**Tecnologías:** Rust, TCP/IP, Multithreading.
 
-## 📌 Proyecto destacado
+#### [cite_start]💼 Sistema de Gestión para Cooperativa [cite: 13]
+[cite_start]Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de socios y validación de reglas de negocio[cite: 14, 16, 17].
+- [cite_start]**Tecnologías:** Visual Basic.NET, Microsoft SQL Server[cite: 18].
 
-### 🔍 Port Scanner en Rust
-Escáner de puertos concurrente desarrollado desde cero en Rust, utilizando threads y `TcpStream::connect_timeout` para realizar conexiones TCP con control de tiempo de espera.
+---
 
-- Uso de threads en paralelo
-- Implementación de timeout para evitar bloqueos
-- Manejo manual de conexiones TCP
+## 📊 Mis Contribuciones
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosRuiz40&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-👉 https://github.com/MarcosRuiz40/port-scanner-rust
+---
 
-⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
-
-## 💡 Qué resuelve
-
-Este proyecto busca entender cómo funcionan los escáneres de red a bajo nivel, implementando manualmente la lógica de conexión y concurrencia en Rust.
-
-## 🎯 Próximos pasos
-
-- Implementar CLI configurable (IP, rango, timeout)
-- Diseñar thread pool para mejorar rendimiento
-- Mejorar manejo de errores con `Result`
-- Expandir hacia herramientas de seguridad ofensiva
-
-## 💡 Objetivo
-
-Desarrollar herramientas reales orientadas a redes y ciberseguridad, con foco en rendimiento y control a bajo nivel.
+📫 **¿Cómo contactarme?**
+- **LinkedIn:** [linkedin.com/in/marcos-ruiz-backend/](https://www.linkedin.com/in/marcos-ruiz-backend/)
+- [cite_start]**Email:** marcos.ruizmc05@gmail.com
