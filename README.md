@@ -18,6 +18,8 @@ Estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el 
 Herramienta de red concurrente desarrollada desde cero utilizando la librería estándar (`std`) de Rust para profundizar en la gestión de memoria y sockets.
 - **Características:** División de rangos de puertos por hilos, comunicación segura mediante canales MPSC y manejo robusto de errores.
 - **Tecnologías:** Rust, TCP/IP, Multithreading.
+👉 https://github.com/MarcosRuiz40/port-scanner-rust
+⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
 
 #### 💼 Sistema de Gestión para Cooperativa
 Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de socios y validación de reglas de negocio.
