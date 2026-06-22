@@ -1,12 +1,12 @@
 # ¡Hola! Soy Marcos Ruiz 👋
 
-Estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo backend, el bajo nivel y la ciberseguridad. Me motivan los desafíos lógicos complejos; por eso elijo especializarme en lenguajes robustos como **Rust** y el ecosistema de **.NET**.
+Estudiante de la Tecnicatura Superior en Desarrollo de Software. Me apasiona el desarrollo backend, el bajo nivel y la ciberseguridad. Me motivan los desafíos lógicos complejos, por eso elijo especializarme en lenguajes robustos como **Rust**.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Rust, .NET (C# / VB.NET), SQL, JavaScript, C
+- **Lenguajes:** Rust, .NET (C# / VB.NET), SQL, JavaScript
 - **Sistemas y Redes:** TCP/IP, Sockets, Multithreading, Concurrencia, Administración de Linux (Kali / Debian)
 - **Bases de Datos y Herramientas:** Git, GitHub, SQL Server
 
