@@ -23,6 +23,7 @@ Herramienta de red concurrente desarrollada desde cero utilizando la librería e
 
 ⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
 
+
 #### 💼 Sistema de Gestión para Cooperativa
 Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de socios y validación de reglas de negocio.
 - **Tecnologías:** Visual Basic.NET, Microsoft SQL Server.
