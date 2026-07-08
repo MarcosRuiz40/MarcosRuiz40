@@ -4,15 +4,16 @@
 Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
 
 ### 👨‍💻 Sobre mi 
-• 🦀 Actualmente centrado en Rust.
+- 🦀 Actualmente centrado en Rust.
 
-• 🌐 Aprendiendo sobre redes y ciberseguridad.
+- 🌐 Aprendiendo sobre redes y ciberseguridad.
 
-• 🔌 Explorando sistemas embebidos con ESP32.
+- 🔌 Explorando sistemas embebidos con ESP32.
 
-• 🚀 En busca de mi primera oportunidad como desarrollador backend/de sistemas.
+- 🚀 En busca de mi primera oportunidad como desarrollador backend/de sistemas.
 
 ---
+
 ## 💼 Buscando mi primera oportunidad
 
 Actualmente estoy interesado en oportunidades **Trainee o Junior** orientadas a **Backend, Desarrollo de Sistemas, Infraestructura o Tecnologías relacionadas con Rust**, donde pueda seguir aprendiendo, aportar valor al equipo y continuar creciendo profesionalmente.
@@ -82,5 +83,5 @@ Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de
 - **LinkedIn:** [linkedin.com/in/marcos-ruiz-backend/](https://www.linkedin.com/in/marcos-ruiz-backend/)
 - **Email:** marcos.ruizmc05@gmail.com
 
-### Nota
+### 📝 Nota
 Me gusta entender cómo funcionan las cosas por debajo del nivel, por eso disfruto construir herramientas relacionadas con redes, concurrencia y sistemas.
