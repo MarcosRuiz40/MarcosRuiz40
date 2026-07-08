@@ -1,6 +1,8 @@
 # ¡Hola! Soy Marcos Ruiz 👋
-📌Estudiante de desarrollo de software de Argentina 🇦🇷 Rosario
+📌Estudiante de desarrollo de software de Argentina 🇦🇷 Rosario.                            
+
 💻Me enfoco en Rust, redes, ciberseguridad y sistemas embebidos.
+
 Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
 
 ### 👨‍💻 Sobre mi 
