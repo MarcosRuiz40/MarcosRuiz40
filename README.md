@@ -5,6 +5,8 @@
 
 Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
 
+---
+
 ### 👨‍💻 Sobre mi 
 - 🦀 Actualmente centrado en Rust.
 
