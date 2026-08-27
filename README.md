@@ -7,7 +7,7 @@ Actualmente desarrollo proyectos personales en Rust para seguir mejorando en pro
 
 ---
 
-### 👨‍💻 Sobre mi 
+### Sobre mi 
 - 🦀 Actualmente centrado en Rust.
 
 - 🌐 Aprendiendo sobre redes y ciberseguridad.
@@ -18,7 +18,7 @@ Actualmente desarrollo proyectos personales en Rust para seguir mejorando en pro
 
 ---
 
-## 💼 Buscando mi primera oportunidad
+## Buscando mi primera oportunidad
 
 Actualmente estoy interesado en oportunidades **Trainee o Junior** orientadas a **Backend, Desarrollo de Sistemas, Infraestructura o Tecnologías relacionadas con Rust**, donde pueda seguir aprendiendo, aportar valor al equipo y continuar creciendo profesionalmente.
 
@@ -57,10 +57,10 @@ Herramienta de red concurrente desarrollada desde cero utilizando la librería e
 - **Características:** División de rangos de puertos por hilos, comunicación segura mediante canales MPSC y manejo robusto de errores.
 - **Tecnologías:** Rust, TCP/IP, Multithreading.
 
-⚡ Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
+Proyecto enfocado en entender cómo funcionan los escáneres de red a bajo nivel.
 
 
-#### 💼 Sistema de Gestión para Cooperativa
+#### Sistema de Gestión para Cooperativa
 Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de socios y validación de reglas de negocio.
 - **Tecnologías:** Visual Basic.NET, Microsoft SQL Server.
 ---
