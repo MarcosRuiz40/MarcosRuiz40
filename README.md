@@ -3,7 +3,7 @@
 
 💻Me enfoco en Rust, redes, ciberseguridad y sistemas embebidos.
 
-Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
+Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas de bajo nivel, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
 
 ---
 
@@ -15,12 +15,6 @@ Actualmente desarrollo proyectos personales en Rust para seguir mejorando en pro
 - 🔌 Explorando sistemas embebidos con ESP32.
 
 - 🚀 En busca de mi primera oportunidad como desarrollador backend/de sistemas.
-
----
-
-## Buscando mi primera oportunidad
-
-Actualmente estoy interesado en oportunidades **Trainee o Junior** orientadas a **Backend, Desarrollo de Sistemas, Infraestructura o Tecnologías relacionadas con Rust**, donde pueda seguir aprendiendo, aportar valor al equipo y continuar creciendo profesionalmente.
 
 ---
 
