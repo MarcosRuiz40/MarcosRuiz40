@@ -1,7 +1,7 @@
 # ¡Hola! Soy Marcos Ruiz 👋
 📌Estudiante de desarrollo de software de Argentina 🇦🇷 Rosario.                            
 
-💻Me enfoco en Rust, redes, ciberseguridad y sistemas embebidos.
+💻Me enfoco en Rust, redes, ciberseguridad y ESP32.
 
 Actualmente desarrollo proyectos personales en Rust para seguir mejorando en programación de sistemas de bajo nivel, networking y concurrencia. Al mismo tiempo, estoy aprendiendo desarrollo embebido con ESP32.
 
@@ -27,14 +27,6 @@ Lenguajes
 - VB.NET
 - SQL
 - JavaScript
-
-Networking & Sistemas
-
-- TCP/IP
-- Sockets
-- Multithreading
-- Concurrencia
-- Linux (Kali / Debian)
 
 Herramientas
 
@@ -65,7 +57,7 @@ Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de
 
 ⬜ Aprender Tokio
 
-⬜ Crear una API REST
+✅ Crear una API REST
 
 ⬜ Contribuir al código abierto
 
