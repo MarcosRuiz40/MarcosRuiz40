@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marcos Ruiz 👋
+# Hola! Soy Marcos Ruiz 👋
 📌Estudiante de desarrollo de software de Argentina 🇦🇷 Rosario.                            
 
 💻Me enfoco en Rust, redes, ciberseguridad y ESP32.
@@ -72,6 +72,3 @@ Desarrollo en equipo de una aplicación de escritorio enfocada en la gestión de
 ### 📫 ¿Cómo contactarme?
 - **LinkedIn:** [linkedin.com/in/marcos-ruiz-backend/](https://www.linkedin.com/in/marcos-ruiz-backend/)
 - **Email:** marcos.ruizmc05@gmail.com
-
-### 📝 Nota
-Me gusta entender cómo funcionan las cosas por debajo del nivel, por eso disfruto construir herramientas relacionadas con redes, concurrencia y sistemas.
