@@ -32,7 +32,6 @@ Herramientas
 
 - Git
 - GitHub
-- SQL Server
 
 ---
 
