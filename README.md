@@ -18,9 +18,13 @@
 ## 🧭 Sobre mí
 
 - 🦀 Actualmente centrado en **Rust**, aplicado a programación de sistemas de bajo nivel, networking y concurrencia.
+  
 - 🌐 Aprendiendo sobre **redes y ciberseguridad**.
+  
 - 🔌 Explorando **sistemas embebidos** con ESP32.
-- 🐍 Sumando **Python** (Django, y explorando ML) por la demanda del mercado.
+  
+- 🐍 Sumando **Python** (Django, y explorando ML)
+  
 - 🚀 En búsqueda de mi primera oportunidad como **desarrollador backend / de sistemas**.
 
 ---
